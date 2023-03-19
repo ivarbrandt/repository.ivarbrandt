@@ -1,0 +1,6 @@
+[submodule "repo/skin.FENtastic"]
+	path = repo/skin.FENtastic
+	url = https://github.com/ivarbrandt/skin.FENtastic
+[submodule "repo/script.FENtastic.helper"]
+	path = repo/script.FENtastic.helper
+	url = https://github.com/ivarbrandt/script.FENtastic.helper
