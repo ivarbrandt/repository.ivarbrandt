@@ -113,8 +113,8 @@ After doing so, your file manager source will be:
 1.    Update the addon and bump the addon version number
 2.    git submodule update --remote
 3.    python3 _repo_generator.py 
- - Manually delete older zip files now if needed
- - git maintenance start / run
+3a.   Manually delete older zip files now if needed
+3b.   git maintenance start / run
 4.    git diff / ls / git status to check
 5.    git add .
 6.    git commit -m "commit comment"
