@@ -17,7 +17,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="script.FENtastic.helper" name="FENtastic Helper" version="0.6.7" provider-name="Tikipeter, Ivar Brandt">
+</addon><addon id="script.FENtastic.helper" name="FENtastic Helper" version="0.6.8" provider-name="Tikipeter, Ivar Brandt">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
     </requires>
@@ -36,7 +36,7 @@
         <description lang="en_NZ">FENtastic Helper for the FENtastic Skin.</description>
         <description lang="en_US">FENtastic Helper for the FENtastic Skin.</description>
     </extension>
-</addon><addon id="skin.FENtastic" version="1.0.5" name="FENtastic" provider-name="phil65, Ichabod Fletchman, Ivar Brandt">
+</addon><addon id="skin.FENtastic" version="1.0.6" name="FENtastic" provider-name="phil65, Ichabod Fletchman, Ivar Brandt">
 	<requires>
 		<import addon="xbmc.gui" version="5.16.0" />
 		<import addon="script.FENtastic.helper" />
