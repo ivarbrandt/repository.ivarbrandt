@@ -111,7 +111,7 @@ After doing so, your file manager source will be:
 
 0.    To add a new addon, open terminal in repo folder: git submodule add https://github.com/ivarbrandt/xyz
 1.    Update the addon and bump the addon version number
-2.    git submodule update --remote
+2.    git submodule update --remotepy
 3.    python3 _repo_generator.py 
 3a.   Manually delete older zip files now if needed
 3b.   git maintenance start / run
