@@ -36,7 +36,7 @@
         <description lang="en_NZ">FENtastic Helper for the FENtastic Skin.</description>
         <description lang="en_US">FENtastic Helper for the FENtastic Skin.</description>
     </extension>
-</addon><addon id="skin.fentastic" version="1.0.14" name="FENtastic" provider-name="Ivar Brandt">
+</addon><addon id="skin.fentastic" version="1.0.15" name="FENtastic" provider-name="Ivar Brandt">
 	<requires>
 		<import addon="xbmc.gui" version="5.16.0" />
 		<import addon="script.fentastic.helper" />
