@@ -5,3 +5,6 @@
 [submodule "repo/script.fentastic.helper"]
 	path = repo/script.fentastic.helper
 	url = https://github.com/ivarbrandt/script.fentastic.helper
+[submodule "repo/plugin.program.autocompletion"]
+	path = repo/plugin.program.autocompletion
+	url = https://github.com/ivarbrandt/plugin.program.autocompletion
