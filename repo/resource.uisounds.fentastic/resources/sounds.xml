@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sounds>
+    <actions>
+        <action>
+          <name>left</name>
+          <file>navigate.wav</file>
+        </action>
+        <action>
+          <name>right</name>
+          <file>navigate.wav</file>
+        </action>
+        <action>
+          <name>up</name>
+          <file>navigate.wav</file>
+        </action>
+        <action>
+          <name>down</name>
+          <file>navigate.wav</file>
+        </action>
+        <action>
+          <name>select</name>
+          <file>select.wav</file>
+        </action>
+        <action>
+          <name>close</name>
+          <file>backselect.wav</file>
+        </action>
+        <action>
+          <name>previousmenu</name>
+          <file>backselect.wav</file>
+        </action>
+    </actions>
+
+    <windows>
+        <window>
+          <name>playercontrols</name>
+          <activate>select.wav</activate>
+          <deactivate>backselect.wav</deactivate>
+        </window>
+        <window>
+          <name>home</name>
+          <activate>-</activate>
+          <deactivate>-</deactivate>
+        </window>
+        <window>
+          <name>infodialog</name>
+          <activate>select.wav</activate>
+          <deactivate>backselect.wav</deactivate>
+        </window>
+    </windows>
+</sounds>
