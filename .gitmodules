@@ -8,3 +8,9 @@
 [submodule "repo/plugin.program.autocompletion"]
 	path = repo/plugin.program.autocompletion
 	url = https://github.com/ivarbrandt/plugin.program.autocompletion
+[submodule "repo/script.nimbus.helper"]
+	path = repo/script.nimbus.helper
+	url = https://github.com/ivarbrandt/script.nimbus.helper.git
+[submodule "repo/skin.nimbus"]
+	path = repo/skin.nimbus
+	url = https://github.com/ivarbrandt/skin.nimbus.git
