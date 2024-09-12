@@ -95,7 +95,7 @@
         <description lang="en_NZ">Nimbus Helper for the Nimbus Skin.</description>
         <description lang="en_US">Nimbus Helper for the Nimbus Skin.</description>
     </extension>
-</addon><addon id="skin.fentastic" version="1.0.24" name="FENtastic" provider-name="Ivar Brandt">
+</addon><addon id="skin.fentastic" version="1.0.25" name="FENtastic" provider-name="Ivar Brandt">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 		<import addon="script.fentastic.helper" />
