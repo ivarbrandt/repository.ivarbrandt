@@ -14,3 +14,9 @@
 [submodule "repo/skin.nimbus"]
 	path = repo/skin.nimbus
 	url = https://github.com/ivarbrandt/skin.nimbus.git
+[submodule "repo/skin.altus"]
+	path = repo/skin.altus
+	url = https://github.com/ivarbrandt/skin.altus
+[submodule "repo/script.altus.helper"]
+	path = repo/script.altus.helper
+	url = https://github.com/ivarbrandt/script.altus.helper
