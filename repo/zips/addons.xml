@@ -52,7 +52,7 @@
     <description lang="en">FENtastic Audio Suite</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="script.altus.helper" name="Altus Helper" version="0.1.2" provider-name="Ivar Brandt">
+</addon><addon id="script.altus.helper" name="Altus Helper" version="0.1.3" provider-name="Ivar Brandt">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" version="2.19.1" />
@@ -117,7 +117,7 @@
         <description lang="en_NZ">Nimbus Helper for the Nimbus Skin.</description>
         <description lang="en_US">Nimbus Helper for the Nimbus Skin.</description>
     </extension>
-</addon><addon id="skin.altus" version="0.2.2" name="Altus" provider-name="Ivar Brandt">
+</addon><addon id="skin.altus" version="0.2.3" name="Altus" provider-name="Ivar Brandt">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 		<import addon="script.altus.helper" />
