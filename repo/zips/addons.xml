@@ -52,7 +52,7 @@
     <description lang="en">FENtastic Audio Suite</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="script.altus.helper" name="Altus Helper" version="0.1.6" provider-name="Ivar Brandt">
+</addon><addon id="script.altus.helper" name="Altus Helper" version="0.1.7" provider-name="Ivar Brandt">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" version="2.19.1" />
@@ -95,7 +95,7 @@
         <description lang="en_NZ">FENtastic Helper for the FENtastic Skin.</description>
         <description lang="en_US">FENtastic Helper for the FENtastic Skin.</description>
     </extension>
-</addon><addon id="script.nimbus.helper" name="Nimbus Helper" version="0.0.48" provider-name="Ivar Brandt">
+</addon><addon id="script.nimbus.helper" name="Nimbus Helper" version="0.0.49" provider-name="Ivar Brandt">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" version="2.19.1" />
@@ -117,11 +117,11 @@
         <description lang="en_NZ">Nimbus Helper for the Nimbus Skin.</description>
         <description lang="en_US">Nimbus Helper for the Nimbus Skin.</description>
     </extension>
-</addon><addon id="skin.altus" version="0.3.0" name="Altus" provider-name="Ivar Brandt">
+</addon><addon id="skin.altus" version="0.4.0" name="Altus" provider-name="Ivar Brandt">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 		<import addon="resource.images.weathericons.white" version="0.0.1" />
-		<import addon="script.altus.helper" version="0.1.6" />
+		<import addon="script.altus.helper" version="0.1.7" />
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
@@ -181,7 +181,7 @@
 		<description lang="en_NZ">FENtastic is a modified version of the default Estuary skin for Kodi Nexus. It is intended for use only with FEN.[CR][CR]See [B]CHANGELOG[/B] located in Skin settings » Extra info for latest changes.</description>
 		<description lang="en_US">FENtastic is a modified version of the default Estuary skin for Kodi Nexus. It is intended for use only with FEN.[CR][CR]See [B]CHANGELOG[/B] located in Skin settings » Extra info for latest changes.</description>
 	</extension>
-</addon><addon id="skin.nimbus" version="0.1.35" name="Nimbus" provider-name="Ivar Brandt">
+</addon><addon id="skin.nimbus" version="0.1.36" name="Nimbus" provider-name="Ivar Brandt">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 		<import addon="script.nimbus.helper" version="0.0.48" />
