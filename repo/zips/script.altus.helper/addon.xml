@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.altus.helper" name="Altus Helper" version="0.1.7" provider-name="Ivar Brandt">
+<addon id="script.altus.helper" name="Altus Helper" version="0.1.8" provider-name="Ivar Brandt">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="script.module.requests" version="2.19.1"/>
@@ -15,7 +15,7 @@
         <source />
         <assets>
             <icon>resources/media/icon.png</icon>
-            <fanart>resources/media/fanart.jpg</fanart>
+            <!-- <fanart>resources/media/fanart.jpg</fanart> -->
         </assets>
         <description lang="en_GB">Altus Helper for the Altus Skin.</description>
         <description lang="en_NZ">Altus Helper for the Altus Skin.</description>

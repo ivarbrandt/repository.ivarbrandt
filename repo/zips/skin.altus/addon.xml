@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.altus" version="0.4.0" name="Altus"
+<addon id="skin.altus" version="0.5.0" name="Altus"
 	provider-name="Ivar Brandt">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
 		<import addon="resource.images.weathericons.white" version="0.0.1" />
-		<import addon="script.altus.helper" version="0.1.7"/>
+		<import addon="script.altus.helper" version="0.1.8"/>
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
@@ -21,7 +21,7 @@
 		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
 		<assets>
 			<icon>resources/icon.jpg</icon>
-			<fanart>resources/fanart.jpg</fanart>
+			<!-- <fanart>resources/fanart.jpg</fanart> -->
 		</assets>
 		<summary lang="en_GB">Altus skin by Ivar Brandt</summary>
 		<summary lang="en_NZ">Altus skin by Ivar Brandt</summary>
